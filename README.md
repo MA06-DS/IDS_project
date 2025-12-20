@@ -1,6 +1,4 @@
-Here’s your updated section with **polished, professional, Google-style English**, and the **UI references** included naturally and cleanly:
 
----
 
 ## Predictive Modeling for Pakistan Stock Exchange (PSX)
 
